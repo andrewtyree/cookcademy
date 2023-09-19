@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4992E6172AB91CF400FED79A /* RecipeCategoryGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4992E6162AB91CF400FED79A /* RecipeCategoryGridView.swift */; };
 		49FDDC952AB6A03A00F49FC4 /* CookcademyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49FDDC942AB6A03A00F49FC4 /* CookcademyApp.swift */; };
 		49FDDC972AB6A03A00F49FC4 /* RecipesListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49FDDC962AB6A03A00F49FC4 /* RecipesListView.swift */; };
 		49FDDC992AB6A03C00F49FC4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49FDDC982AB6A03C00F49FC4 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4992E6162AB91CF400FED79A /* RecipeCategoryGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeCategoryGridView.swift; sourceTree = "<group>"; };
 		49FDDC912AB6A03A00F49FC4 /* Cookcademy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cookcademy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49FDDC942AB6A03A00F49FC4 /* CookcademyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CookcademyApp.swift; sourceTree = "<group>"; };
 		49FDDC962AB6A03A00F49FC4 /* RecipesListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipesListView.swift; sourceTree = "<group>"; };
@@ -90,6 +92,7 @@
 			children = (
 				49FDDC962AB6A03A00F49FC4 /* RecipesListView.swift */,
 				49FDDCC42AB8C23400F49FC4 /* RecipeDetailView.swift */,
+				4992E6162AB91CF400FED79A /* RecipeCategoryGridView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 			files = (
 				49FDDC972AB6A03A00F49FC4 /* RecipesListView.swift in Sources */,
 				49FDDCC52AB8C23400F49FC4 /* RecipeDetailView.swift in Sources */,
+				4992E6172AB91CF400FED79A /* RecipeCategoryGridView.swift in Sources */,
 				49FDDCC32AB8BE2C00F49FC4 /* RecipeData.swift in Sources */,
 				49FDDCA72AB6AE8500F49FC4 /* Recipes.swift in Sources */,
 				49FDDC952AB6A03A00F49FC4 /* CookcademyApp.swift in Sources */,

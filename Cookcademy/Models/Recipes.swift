@@ -32,13 +32,13 @@ struct MainInformation {
     var description: String
     var author: String
     var category: Category //Breakfast, Lunch, Dinner, Dessert
-}
-
-enum Category: String, CaseIterable {
-    case breakfast = "Breakfast"
-    case lunch = "Lunch"
-    case dinner = "Dinner"
-    case dessert = "Dessert"
+    
+    enum Category: String, CaseIterable {
+        case breakfast = "Breakfast"
+        case lunch = "Lunch"
+        case dinner = "Dinner"
+        case dessert = "Dessert"
+    }
 }
 // consider adding case side = "Side"
 
